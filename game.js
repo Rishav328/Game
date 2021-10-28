@@ -1,4 +1,5 @@
 /* Notice to user in alert */
+/**/
 
 alert("Press on Screen to shoot the target , while increseing points the ship will go down , you can only waste 10 bullets.");
 alert("Thanks for visiting here enjoy 🙂");
